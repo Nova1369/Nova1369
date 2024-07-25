@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nova1369
 - 👀 I’m interested in reading books on Maths
-- 🌱 I’m currently learning Data Structure & Algorithm
+- 🌱 I’m currently learning AI and its allied uses
 - 💞️ I’m looking to collaborate on projects related to AI, ML, DL
 - 📫 How to reach me just dm me
 
